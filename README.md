@@ -7,9 +7,17 @@ There is a build in builds folder for Windows platform.
 
 # Screenshots
 
-![Main Screenshot](/Screenshots/Start.png "Main Screenshot")
+![Start Game Screenshot](/Screenshots/Start.png "Start Game Screenshot")
+*Start Game Screenshot*
 
 ![In Game Screenshot 1](/Screenshots/In%20Play%201.png "In Game Screenshot 1")
+*In Game Screenshot 1*
 
-![In Game Screenshot 2](/Screenshots/In%20Play%201.png "In Game Screenshot 2")
+![In Game Screenshot 2](/Screenshots/In%20Play%202.png "In Game Screenshot 2")
+*In Game Screenshot 2*
 
+![In Game Screenshot 3](/Screenshots/In%20Play%203.png "In Game Screenshot 3")
+*In Game Screenshot 3*
+
+![End Game Screenshot](/Screenshots/End.png "End Game Screenshot")
+*End Game Screenshot*
