@@ -8,6 +8,7 @@
 /Assets/Editor/GitHub.meta
 /Assets/Editor/GitHub/
 
+
 # Visual Studio 2015 cache directory
 /.vs/
 
@@ -26,7 +27,6 @@ ExportedObj/
 *.svd
 *.pdb
 
-
 # Unity3D generated meta files
 *.pidb.meta
 
@@ -36,3 +36,4 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
