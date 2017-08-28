@@ -9,7 +9,7 @@ There is a build in builds folder for Windows platform.
 
 ![Main Screenshot](/Screenshots/Start.png "Main Screenshot")
 
-![In Game Screenshot 1](/Screenshots/In Play 1.png "In Game Screenshot 1")
+![In Game Screenshot 1](/Screenshots/In%20Play%201.png "In Game Screenshot 1")
 
-![In Game Screenshot 2](/Screenshots/In Play 1.png "In Game Screenshot 2")
+![In Game Screenshot 2](/Screenshots/In%20Play%201.png "In Game Screenshot 2")
 
