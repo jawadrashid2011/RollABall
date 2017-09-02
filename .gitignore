@@ -6,6 +6,10 @@
 /Assets/Editor/GitHub.meta
 /Assets/Editor/GitHub/
 
+/[Bb]uild/
+/[Bb]uilds/
+
+
 
 # Visual Studio 2015 cache directory
 /.vs/
@@ -30,4 +34,11 @@ ExportedObj/
 
 # Unity3D Generated File On Crash Reports
 sysinfo.txt
+
+# Builds
+*.apk
+*.unitypackage
+*.exe
+*.dll
+
 
