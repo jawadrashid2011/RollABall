@@ -5,7 +5,9 @@ I don't own the game assets or the game idea. I am just trying to put this proje
 
 I have created this final output after following along with the official Unity tutorial on page https://unity3d.com/learn/tutorials/projects/roll-ball-tutorial. Please look at the offical unity license for this course but i found this somewhere "All assets including models, textures, sounds and scripts are available for free commercial and non-commercial use when used in a Unity game."
 
-There is a build in builds folder for Windows platform.
+You can view more details at my personal blog here [http://www.jawadrashid.com/roll-a-ball/](http://www.jawadrashid.com/roll-a-ball/) and view the working demo of the app here [https://jawadrashid2011.github.io/RollABall/Builds/Web%20GL/](https://jawadrashid2011.github.io/RollABall/Builds/Web%20GL/)
+
+You can find Web GL version and Windows version in releases section of this repository. 
 
 # Screenshots
 
